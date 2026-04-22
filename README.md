@@ -1,7 +1,7 @@
 # FarmTech Solutions - Fase 2
 
 ## Integrantes
-- Seu nome
+- Ryan pablo correa de paula
 
 ## Projeto
 Sistema de irrigação inteligente com ESP32.
