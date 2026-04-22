@@ -24,4 +24,4 @@ Caso contrário, permanece desligada.
 Simular uma solução de IoT para agricultura, evitando desperdício de água.
 
 ## Vídeo
-Colocar link aqui
+https://youtu.be/PWCf63MWbuE?si=x4KuKj0G87r6u-m0
